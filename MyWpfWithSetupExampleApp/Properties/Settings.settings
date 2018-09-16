@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyWpfWithSetupExampleApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UpdateURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://uhwgmxorg.com/LH7KF2BH/getMyWpfWithSetupExampleAppUrl.php</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
